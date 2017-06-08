@@ -1,0 +1,13 @@
+div{
+    width: 200px;
+    height: 30px;
+    text-align: center;
+    position: center;
+}
+body{
+    background-color: #7ebdc2
+}
+#pic1,#pic2,#pic3,#pic4,#pic5{
+    background-color: gray;
+   
+}
